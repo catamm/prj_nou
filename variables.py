@@ -1,0 +1,1 @@
+vorbe = 'salut Silviu'
